@@ -1,4 +1,5 @@
  Результати вимірювань:
+ 
          Text   Pattern    Algorithm  Time (s)
          
 0   Article 1  Existing          KMP  0.009727
